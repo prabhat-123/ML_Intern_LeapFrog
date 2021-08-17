@@ -34,9 +34,21 @@ Surfacely, it looks like a binary classification problem.
 <li>Person who lives in a rural area slightly has a higher probability of getting a stroke than a person who lives in a rural area. Difference is small.
 There is a small difference between who smokes and who does not smoke in regard to the probability of getting a stroke.</li>
 
+</br>
+
+***Data Distribution***
+</br>
+![](output_images/data_distribution.png)
+</br>
+
+***Outlier Detection***
+</br>
+![](output_images/outlier_detection.png)
+</br>
 
 
- 
+
+ </br>
 ***Insights from Target Variable***
 
 <li>Almost %95 of the instances of our target variable is 'No stroke'</li>
@@ -54,9 +66,12 @@ There is a small difference between who smokes and who does not smoke in regard 
 <li>There are 19 times more people who didn’t have strokes in our data than who had, and we say that the non-stroke class dominates the stroke class.
 We can clearly see that: the stroke rate in our data is 0.048 Which is a strong indicator of class imbalance.</li>
 
+ 
+ </br>
 
- 
- 
+![](output_images/class_imbalance_problem.png)
+
+</br>
  
 ***Imbalance Datasets***
 
@@ -73,8 +88,7 @@ We can clearly see that: the stroke rate in our data is 0.048 Which is a strong 
 <li>Otherwise our machine learning algorithm falsely predicts the majority class.
 In our example: No stroke is the majority class.</li>
 
-![](output_images/class_imbalance_problem.png)
- 
+</br>
  
  
 ***Decide the metric***
