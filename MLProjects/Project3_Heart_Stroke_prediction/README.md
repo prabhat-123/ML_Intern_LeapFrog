@@ -73,7 +73,7 @@ We can clearly see that: the stroke rate in our data is 0.048 Which is a strong 
 <li>Otherwise our machine learning algorithm falsely predicts the majority class.
 In our example: No stroke is the majority class.</li>
 
-![](./MLProjects/Project3_Heart_Stroke_prediction/output_images/class_imbalance_problem.png)
+![](output_images/class_imbalance_problem.png)
  
  
  
