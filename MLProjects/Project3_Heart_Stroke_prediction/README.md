@@ -1,6 +1,9 @@
-Patient Heart Stroke Prediction
-Dataset source : https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
-Problem Statement:
+**Patient Heart Stroke Prediction**
+
+***Dataset source :*** https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
+
+***Problem Statement:***
+
 According to the WHO, stroke is the 2nd leading cause of death globally.
 Stroke is responsible for approximately 11% of total deaths in the world.
 The dataset is provided to predict whether a patient is likely to get stroke or not on the basis of given input parameters :
@@ -10,11 +13,12 @@ Surfacely, it looks like a binary classification problem.
 
 		
  
-Insights From Univariate Analysis
+***Insights From Univariate Analysis***
  
-Categorical Columns
+***Categorical Columns***
  
-58.6% of people are female and 41.4% female are males and almost 0% of people belong to the other gender.
+<li>58.6% of people are female and 41.4% female are males and almost 0% of people belong to the other gender.</li>
+
 65.6% of people are married and 34.4% of people are unmarried.
 50.8% of people are living in Urban areas whereas 49.2% of people are living in Rural areas.
 57.2 % of people work in private companies, 16 % of people are self-employed and 12.9 % of people work in government jobs whereas 13.4 % of people are children and 0.4 % of people have never worked.
