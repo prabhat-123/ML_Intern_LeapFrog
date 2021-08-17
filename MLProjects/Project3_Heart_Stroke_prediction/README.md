@@ -54,7 +54,7 @@ There is a small difference between who smokes and who does not smoke in regard 
 <li>There are 19 times more people who didn’t have strokes in our data than who had, and we say that the non-stroke class dominates the stroke class.
 We can clearly see that: the stroke rate in our data is 0.048 Which is a strong indicator of class imbalance.</li>
 
-![My image]('https://github.com/prabhat-123/ML_Intern_LeapFrog/tree/main/MLProjects/Project3_Heart_Stroke_prediction/output_images/class_imbalance_problem.png')
+![My image](MLProjects/Project3_Heart_Stroke_prediction/output_images/class_imbalance_problem.png')
  
  
  
