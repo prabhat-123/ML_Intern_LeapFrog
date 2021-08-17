@@ -48,7 +48,6 @@ There is a small difference between who smokes and who does not smoke in regard 
 
 
 
- </br>
 ***Insights from Target Variable***
 
 <li>Almost %95 of the instances of our target variable is 'No stroke'</li>
